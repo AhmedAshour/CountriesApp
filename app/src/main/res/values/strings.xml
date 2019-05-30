@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Countries App</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">login</string>
+    <string name="text_register_btn">Register</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_account_btn">Create Account</string>
+
+    <!--Authentication with Google-->
+    <string name="google_web_client_id">335056348223-8tuqllc9bg1b4r67vkrl36ssqb588i3u.apps.googleusercontent.com</string>
+
+    <!--Authentication with Facebook-->
+    <string name="facebook_app_id">691070488016126</string>
+    <string name="fb_login_protocol_scheme">fb691070488016126</string>
+    <string name="registeration_activity_name">Create Account</string>
+    <string name="home_activity_name">World Countries</string>
+    <string name="login_tv_name">Login</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="wrong_email_format">Enter a correct email address!</string>
+    <string name="wrong_password_format">Password should be greater than 6 characters!</string>
+    <string name="enter_correct_credentials">Please enter the correct credentials</string>
+    <string name="password_doesnt_match">Password doesn\'t match!</string>
+</resources>

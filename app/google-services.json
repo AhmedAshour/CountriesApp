@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335056348223",
+    "firebase_url": "https://countriesapp-b44a3.firebaseio.com",
+    "project_id": "countriesapp-b44a3",
+    "storage_bucket": "countriesapp-b44a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335056348223:android:ac9cff528e057981",
+        "android_client_info": {
+          "package_name": "me.ahmedashour.countriesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335056348223-qtuoai00lgek309bi5upqmt4hb4hhjav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.ahmedashour.countriesapp",
+            "certificate_hash": "925e4966c2b275c4a11915ff605e27675010a0da"
+          }
+        },
+        {
+          "client_id": "335056348223-8tuqllc9bg1b4r67vkrl36ssqb588i3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTQjEM3jmCZXKYXJhud4iPUpoizHSLMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335056348223-8tuqllc9bg1b4r67vkrl36ssqb588i3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
